@@ -1,33 +1,17 @@
+---
 name: Bug report
-about: Report un bug
-title: '[Bug]'
-labels: ''
+about: Pour report votre bug
+title: "[Bug]"
+labels: bug
 assignees: SirLink23
-body:
-  - type: input
-    id: pseudo
-    attributes:
-      label: Pseudo Discord
-    validations:
-      required: true
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: Que s'est-il passé ?
-      description: Dites-nous ce qui est arrivé
-    validations:
-      required: true
-  - type: textarea
-    id: what-should-happened
-    attributes:
-      label: 'Qu''aurait-il dû arriver ?'
-  - type: dropdown
-    id: server
-    attributes:
-      label: Serveur
-      description: Sur quel projet est-ce arrivé ?
-      options:
-        - Global
-        - Market
-        - System
-        - Giveaways
+
+---
+
+**Décrire le bug**
+Une description claire et concise du bug.
+
+**Reproduction**
+Comment reproduire le bug.
+
+**Que devait-il se passer**
+Une description claire et concise de ce qu'il devait se passer.
