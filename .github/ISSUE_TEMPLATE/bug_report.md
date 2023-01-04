@@ -4,9 +4,6 @@ about: Report un bug
 title: '[Bug]'
 labels: ''
 assignees: SirLink23
-
----
-
 body:
   - type: input
     id: pseudo
@@ -35,3 +32,6 @@ body:
         - Market
         - System
         - Giveaways
+---
+
+
