@@ -1,4 +1,3 @@
----
 name: Bug report
 about: Report un bug
 title: '[Bug]'
@@ -32,6 +31,3 @@ body:
         - Market
         - System
         - Giveaways
----
-
-
